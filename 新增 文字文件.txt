@@ -1,0 +1,13 @@
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <title>魏宇翔 (小翔) | 土城日月光特許加盟店 | 專業房地產顧問</title>
+    
+    <meta name="description" content="在地深耕房仲魏宇翔(小翔)，提供土城、板橋、大台北地區買屋、賣屋、租屋專業服務。最新精選好屋、成交行情分析，用心為您尋找最溫暖的家。">
+    
+    <meta name="keywords" content="土城房仲, 日月光特許加盟店, 魏宇翔, 買屋, 賣屋, 新北房地產">
+
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@300;400;500;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
